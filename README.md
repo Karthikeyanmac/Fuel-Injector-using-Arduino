@@ -3,6 +3,9 @@ In my fuel injector project using Arduino, I designed a system to simulate the b
 
 Components like a  LED  used to represent the injector's operation, and parameters like pulse width (representing the amount of fuel injected) were controlled through the Arduino's code. The project aimed to demonstrate how fuel injection can be managed electronically, which is crucial in modern engine management systems.
 
+## Fuel Injector using Arduino
+![Fuel Injector using Arduino]()
+
 
 
 
