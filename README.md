@@ -7,6 +7,21 @@ Components like a  LED  used to represent the injector's operation, and paramete
 ![Fuel Injector using Arduino](https://github.com/Karthikeyanmac/Fuel-Injector-using-Arduino/blob/main/fuel%20injector%20system%20using%20arduino.jpg)
 
 
+### HARDWARE
+> Arduino UNO R3
+
+> positional micro servo                       
+
+> Red LED
+
+> 220 Ω Resistor
+
+> LCD 16 x 2
+
+> 250 kΩ potentiometer
+
+> 5 , 5 Power Supply
+	
 
 
 
